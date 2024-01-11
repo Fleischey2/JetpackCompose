@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidCompose.iml" filepath="$PROJECT_DIR$/.idea/AndroidCompose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Affirmations.iml" filepath="$PROJECT_DIR$/.idea/Affirmations.iml" />
     </modules>
   </component>
 </project>
